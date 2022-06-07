@@ -3,7 +3,7 @@
 // @name:en      Feishu Partner
 // @namespace    https://jasonlam.cc
 // @version      0.1.5
-// @description:    目前支持强制当前页面打开文档
+// @description    目前支持强制当前页面打开文档
 // @description:en    Force the document to be opened on the current tab
 // @author       JasonLamv-t
 // @match        *://*.feishu.cn/*
